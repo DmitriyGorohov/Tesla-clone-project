@@ -1,4 +1,4 @@
-###Разработка Клона Тесла на ReactJS (Redux + Styled Components)
+Разработка Клона Тесла на ReactJS (Redux + Styled Components)
 
 ```
 Deploy
